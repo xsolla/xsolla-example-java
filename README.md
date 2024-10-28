@@ -1,4 +1,4 @@
-# Xsolla Client-Side Integration Example
+# Xsolla Server-Side Integration Example
 
 This repository offers an example of integrating Xsolla PayStation for payment processing using Maven, Java, Servlets,
 Tomcat, and Ngrok.
